@@ -1,7 +1,8 @@
 # The Joke the Reviewer Laughs At
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329)
-[![Competition](https://img.shields.io/badge/competition-the--joke--the--reviewer--laughs--at--20261121--0329-green)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329)
+[![make.fun · the-joke-the-reviewer-laughs-at-20261121-0329](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
+[![rank](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/emafajriana/the-joke-the-reviewer-laughs-at-20261121-0329-entry/rank.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
+[![reward](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/emafajriana/the-joke-the-reviewer-laughs-at-20261121-0329-entry/reward.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
 Entry for the make.fun bounty
